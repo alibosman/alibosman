@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
- <style>
-        table, th, td {
-  border: 1px solid;
-}
-    </style>
+
 
 
 <body>
