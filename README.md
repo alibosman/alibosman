@@ -5,9 +5,7 @@
   border: 1px solid;
 }
     </style>
-<head>
-<title>GitHub Page</title>
-</head>
+
 
 <body>
 <table>
